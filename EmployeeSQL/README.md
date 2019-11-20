@@ -1,4 +1,4 @@
-# SQL Homework - Employee Database: A Mystery in Two Parts
+# SQL Homework - Employee Database
 
 
 In this assignment, design the tables to hold data in the CSVs, imported the CSVs into a SQL database, and answer questions about the data. In other words, performed:
